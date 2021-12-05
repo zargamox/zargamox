@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zargamox
 - 👀 I’m interested in historical linguistics, etymological dictionaries
-- 🌱 I’m currently learning assemblé language
+- 🌱 I’m currently learning assembly language
 - 💞️ I’m looking to collaborate on historical linguistics
 - 📫 How to reach me zargamox@wanadoo.fr
 
